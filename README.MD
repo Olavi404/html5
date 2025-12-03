@@ -26,7 +26,7 @@ Sisu, pildid ja tekst ei ole originaalilt kopeeritud.
 - CSS on ainult visuaalseks eristamiseks  
 
 ## Ekraanipilt skeemist
+![Skeem](traatkaart.png)
 
-![Skeem](Screenshot 2025-12-03 094850.png)
 
 
