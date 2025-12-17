@@ -1,6 +1,6 @@
 # HTML5 semantiline skeem
 # Tehtud Visual Studio Code's
-# LASIN SELLE CHATGPT GENEREERIDA
+# Lasin README faili ChatGPT teha
 ## Valitud SaaS-leht
 https://www.dropbox.com  
 (※ URL on kasutatud ainult struktuuri vaatlemiseks, HTML ei ole kopeeritud)
@@ -27,6 +27,7 @@ Sisu, pildid ja tekst ei ole originaalilt kopeeritud.
 
 ## Ekraanipilt skeemist
 ![Skeem](traatkaart.png)
+
 
 
 
